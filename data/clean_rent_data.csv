@@ -1,13 +1,13 @@
 zone,area,bedroom_type,rent_2024,rent_2025,dollar_change,percent_change
-1,Toronto (Central),Studio,1574,1606,32,2
+1,Toronto (Central),Studio,1574,1606,32,2.0
 1,Toronto (Central),1 Bedroom,1968,2042,74,3.8
 1,Toronto (Central),2 Bedroom,2627,2776,149,5.7
 1,Toronto (Central),3 Bedroom+,3494,3580,86,2.5
-2,Toronto (East),Studio,1166,1213,47,4
-2,Toronto (East),1 Bedroom,1627,1692,65,4
-2,Toronto (East),2 Bedroom,1967,1869,-98,-5
+2,Toronto (East),Studio,1166,1213,47,4.0
+2,Toronto (East),1 Bedroom,1627,1692,65,4.0
+2,Toronto (East),2 Bedroom,1967,1869,-98,-5.0
 2,Toronto (East),3 Bedroom+,,,,
-3,Toronto (North),Studio,1570,1570,0,0
+3,Toronto (North),Studio,1570,1570,0,0.0
 3,Toronto (North),1 Bedroom,1889,1892,3,0.2
 3,Toronto (North),2 Bedroom,2391,2476,85,3.6
 3,Toronto (North),3 Bedroom+,3116,2986,-130,-4.2
@@ -22,18 +22,18 @@ zone,area,bedroom_type,rent_2024,rent_2025,dollar_change,percent_change
 6,Etobicoke (Central),Studio,1590,1693,103,6.5
 6,Etobicoke (Central),1 Bedroom,1723,1874,151,8.8
 6,Etobicoke (Central),2 Bedroom,2072,2190,118,5.7
-6,Etobicoke (Central),3 Bedroom+,2269,2497,228,10
+6,Etobicoke (Central),3 Bedroom+,2269,2497,228,10.0
 7,Etobicoke (North),Studio,1288,1342,54,4.2
 7,Etobicoke (North),1 Bedroom,1678,1718,40,2.4
 7,Etobicoke (North),2 Bedroom,1855,2018,163,8.8
 7,Etobicoke (North),3 Bedroom+,1870,2522,652,34.9
-8,York,Studio,1381,1381,0,0
+8,York,Studio,1381,1381,0,0.0
 8,York,1 Bedroom,1665,1706,41,2.5
 8,York,2 Bedroom,2022,2067,45,2.2
 8,York,3 Bedroom+,2706,2547,-159,-5.9
 9,East York,Studio,1192,1339,147,12.3
 9,East York,1 Bedroom,1510,1578,68,4.5
-9,East York,2 Bedroom,1750,1820,70,4
+9,East York,2 Bedroom,1750,1820,70,4.0
 9,East York,3 Bedroom+,2241,2189,-52,-2.3
 10,Scarborough (Central),Studio,1455,1520,65,4.5
 10,Scarborough (Central),1 Bedroom,1611,1610,-1,-0.1
@@ -54,13 +54,13 @@ zone,area,bedroom_type,rent_2024,rent_2025,dollar_change,percent_change
 14,North York (Northeast),Studio,1464,1498,34,2.3
 14,North York (Northeast),1 Bedroom,1830,1815,-15,-0.8
 14,North York (Northeast),2 Bedroom,2164,2162,-2,-0.1
-14,North York (Northeast),3 Bedroom+,2458,2360,-98,-4
+14,North York (Northeast),3 Bedroom+,2458,2360,-98,-4.0
 15,North York (Southwest),Studio,1272,1379,107,8.4
 15,North York (Southwest),1 Bedroom,1549,1567,18,1.2
 15,North York (Southwest),2 Bedroom,1949,1814,-135,-6.9
 15,North York (Southwest),3 Bedroom+,2169,2243,74,3.4
 16,North York (N. Central),Studio,1432,1471,39,2.7
-16,North York (N. Central),1 Bedroom,1905,1771,-134,-7
+16,North York (N. Central),1 Bedroom,1905,1771,-134,-7.0
 16,North York (N. Central),2 Bedroom,1951,2031,80,4.1
 16,North York (N. Central),3 Bedroom+,2091,2303,212,10.1
 17,North York (Northwest),Studio,1107,1167,60,5.4
